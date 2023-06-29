@@ -1,6 +1,7 @@
 # Air Quality Of India  -  An Extensive Exploratory Data Analysis
 
 In this EDA project, I have analyzed the air quality of several cities in India based on data compiled by Central Pollution Control Board (CPCB) from 2010 to 2023.
+Data Source - https://www.kaggle.com/datasets/abhisheksjha/time-series-air-quality-data-of-india-2010-2023
 
 ## Project Outline
 
@@ -30,6 +31,3 @@ In this EDA project, I have analyzed the air quality of several cities in India 
 6. Summary & Conclusions
 
 7. Future Work & Reference
-
-
-Data Source - https://www.kaggle.com/datasets/abhisheksjha/time-series-air-quality-data-of-india-2010-2023
